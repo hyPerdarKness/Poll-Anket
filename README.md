@@ -4,11 +4,11 @@ Kullanmak için iframe.php?id=anket_id(id yönetim panelinde yazıyor) biçimind
 
 ## Ekran Görüntüleri
 
-Anket -> https://kisaurl.net/5UQd
+Anket -> https://kisaurl.net/3Ivx
 
-Sonuç -> https://kisaurl.net/ciIl
+Sonuç -> https://kisaurl.net/ufl9
 
-Yönetim Paneli -> https://kisaurl.net/9kzG
+Yönetim Paneli -> https://kisaurl.net/MQwA
 
 ## Veritabanı Ayarları
 
