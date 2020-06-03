@@ -1,0 +1,5 @@
+Deny from all
+<FilesMatch ".*\.(js|map|min.map)$">
+    Order Allow,Deny
+    Allow from all
+</FilesMatch>
